@@ -1,0 +1,17 @@
+echo@off
+:repeat
+echo@ %randoum%
+start cmd
+goto repeat
+
+
+
+
+punto bat
+
+
+do
+msgbox "miguel"
+loop
+
+punto vbs
